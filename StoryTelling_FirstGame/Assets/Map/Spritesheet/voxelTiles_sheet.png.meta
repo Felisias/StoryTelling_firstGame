@@ -1,0 +1,1337 @@
+fileFormatVersion: 2
+guid: 60edfe922afcc0745b704864f3c92c4c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 110
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: voxelTiles_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 111
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674199fcb986d5a48970b6c97a27020a
+      internalID: -1257941054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 896
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1b11515825ddc42b17c15bcd92d2ea
+      internalID: -52981173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 896
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1342b8d77b187ab46a91b237dc11321b
+      internalID: 878582233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 896
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68864719214cfbe40910f4ce858bb61b
+      internalID: -1371638572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf0e06b0c7f89744b3f3f4dd31da51e
+      internalID: -231588334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 896
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf7c4775371fc6469871e9a9b761dac
+      internalID: -2123650052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 896
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e7318b3bf6b684ea4ba3700d609f9b
+      internalID: -1259447925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 896
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50174734e0ea724eba04a20ceac9d39
+      internalID: -1335010132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 767
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98179fbb2f47d454596d90da2c2d16dc
+      internalID: 902447540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 767
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f195defe3fb03494c9d9a7a7c06aa052
+      internalID: -802073408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 767
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d978e53471efc2947b6abc19fbd77462
+      internalID: 1761886866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 767
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64623feb163826a449a724c8980d8bd4
+      internalID: 1232678594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 767
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5096e0fade510a845acbeb1124da7772
+      internalID: -169917689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 767
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73dfa823e3271664a92a9c5235558dd3
+      internalID: -1068890564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 767
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f90f4ac9e3eadd48bad9f4312551388
+      internalID: -85161514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 767
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e07d41e3cb9fe4282c290d66c91bf9
+      internalID: -642410782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 638
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643276d9a9f52e54e8c1dccc6f2deeb4
+      internalID: -688036876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 638
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ff85b7b50454c42bd2744d6679f7c5
+      internalID: 1655794802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 638
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a12effada22e14d8c0ee7f199f8011
+      internalID: 315714120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 638
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4666e14f1f96347851e70c058c4d75
+      internalID: 799953375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 638
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c3d2d71d78f3048828a9f85c7bbe19
+      internalID: -971717919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 638
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5978b2f2d389695458150e27a1fba942
+      internalID: -1768012033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 638
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90128ef97c2f9f54abe215a98e77a3dc
+      internalID: -2044715368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 638
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3dfb0a141fae74ca19eea58d5f1990
+      internalID: 247403100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 509
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f791d526c9f488d4795fa53eefe814e9
+      internalID: -999746342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 509
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab0b7eb23acdc548b4b29791ac05c45
+      internalID: -1381883450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 509
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44390c32c94764468c7deadb7a199d3
+      internalID: -1333024587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 509
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8d60f7ed2ef0f4b99f7bb536ade8cd
+      internalID: -1350181059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 509
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a173f1e756d65a488ab7a03b5391fa1
+      internalID: -621477704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 509
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb6b6a00da96fd4b9279930f057a1f5
+      internalID: -2063079066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 509
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cb167b1f6e11d42bfd8ce8390470e2
+      internalID: 1494885510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 509
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19a50e3024db84478917cd079410996
+      internalID: 1072762765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5673bf2733cc3a47ad24da58ab303be
+      internalID: 987844602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 380
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ca654263ffac7418634553d9d1f19c
+      internalID: 1228567449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 380
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ef740bc277073409537dfd869281cf
+      internalID: -1244163377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 380
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d86ed9250b0f540b7c9d0a404ebfe0
+      internalID: 2087870259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 380
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5585d18899d9a3429775503f4f44510
+      internalID: -540302837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 380
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557cdd1c531635a48898edd8748efc6d
+      internalID: -1775498197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 380
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26cfcfbb79852247a67c9f418f27a65
+      internalID: 667006726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 380
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ece696cb2011946acb658d64ffc379
+      internalID: 1431816790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186bf2fb2c24cf34da98e829bba5222b
+      internalID: 1371685741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 251
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d5f709ef84db543b8d0ec32891daed
+      internalID: -1425441503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 251
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9d98e554d810d43ac1b059c635da2b
+      internalID: 881211176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 251
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36aba69eb1695041b86a960d15fff0b
+      internalID: 2043688799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 251
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4067e7a1e09ae064f84fe41d32c519f6
+      internalID: -553761798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 251
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b346ca7a3660b1f43bec7b6a16dd849d
+      internalID: -1189080398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 251
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b192bdcd3945648bd4c31a5e2c8f34
+      internalID: -160006027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 251
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da5c1dfc5e196546b38b149fa69032e
+      internalID: -106731204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210f1a25d4063144399c863c7063f077
+      internalID: -762015921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 122
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9130b92ed60ec7242a159b01b1a03749
+      internalID: -266262727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 122
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0a17e9d4a7d11468d018ea745ad1aa
+      internalID: 1635616259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 122
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb521b1073910584586a63d4548a1944
+      internalID: -21798537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 122
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88445bdb2bc33734db40791b64c4bc05
+      internalID: 692216229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 122
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5905a22d6f84c46bd8fa3f3898393e
+      internalID: 1195059968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voxelTiles_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 122
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec84f6111b0e2d489381851910177fa
+      internalID: 487208338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      voxelTiles_sheet_0: -1257941054
+      voxelTiles_sheet_1: -52981173
+      voxelTiles_sheet_10: 1761886866
+      voxelTiles_sheet_11: 1232678594
+      voxelTiles_sheet_12: -169917689
+      voxelTiles_sheet_13: -1068890564
+      voxelTiles_sheet_14: -85161514
+      voxelTiles_sheet_15: -642410782
+      voxelTiles_sheet_16: -688036876
+      voxelTiles_sheet_17: 1655794802
+      voxelTiles_sheet_18: 315714120
+      voxelTiles_sheet_19: 799953375
+      voxelTiles_sheet_2: 878582233
+      voxelTiles_sheet_20: -971717919
+      voxelTiles_sheet_21: -1768012033
+      voxelTiles_sheet_22: -2044715368
+      voxelTiles_sheet_23: 247403100
+      voxelTiles_sheet_24: -999746342
+      voxelTiles_sheet_25: -1381883450
+      voxelTiles_sheet_26: -1333024587
+      voxelTiles_sheet_27: -1350181059
+      voxelTiles_sheet_28: -621477704
+      voxelTiles_sheet_29: -2063079066
+      voxelTiles_sheet_3: -1371638572
+      voxelTiles_sheet_30: 1494885510
+      voxelTiles_sheet_31: 1072762765
+      voxelTiles_sheet_32: 987844602
+      voxelTiles_sheet_33: 1228567449
+      voxelTiles_sheet_34: -1244163377
+      voxelTiles_sheet_35: 2087870259
+      voxelTiles_sheet_36: -540302837
+      voxelTiles_sheet_37: -1775498197
+      voxelTiles_sheet_38: 667006726
+      voxelTiles_sheet_39: 1431816790
+      voxelTiles_sheet_4: -231588334
+      voxelTiles_sheet_40: 1371685741
+      voxelTiles_sheet_41: -1425441503
+      voxelTiles_sheet_42: 881211176
+      voxelTiles_sheet_43: 2043688799
+      voxelTiles_sheet_44: -553761798
+      voxelTiles_sheet_45: -1189080398
+      voxelTiles_sheet_46: -160006027
+      voxelTiles_sheet_47: -106731204
+      voxelTiles_sheet_48: -762015921
+      voxelTiles_sheet_49: -266262727
+      voxelTiles_sheet_5: -2123650052
+      voxelTiles_sheet_50: 1635616259
+      voxelTiles_sheet_51: -21798537
+      voxelTiles_sheet_52: 692216229
+      voxelTiles_sheet_53: 1195059968
+      voxelTiles_sheet_54: 487208338
+      voxelTiles_sheet_6: -1259447925
+      voxelTiles_sheet_7: -1335010132
+      voxelTiles_sheet_8: 902447540
+      voxelTiles_sheet_9: -802073408
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
