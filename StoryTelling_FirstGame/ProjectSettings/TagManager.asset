@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Sheep
+  - Gear
+  - Obstacle
+  - Slot
+  - Circle
+  - 'DropArea '
+  - DropArea
+  - Sheep 2
+  - TopZone
+  - CentralZone
   layers:
   - Default
   - TransparentFX

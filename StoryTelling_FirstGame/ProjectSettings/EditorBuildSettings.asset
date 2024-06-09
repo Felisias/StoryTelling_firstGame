@@ -6,6 +6,54 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 7760a2cc6dfb4fe489dd69239ed7d221
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Ctrl-scene.unity
+    guid: 6a16ec4d6e937ea4fbbd74a661989152
+  - enabled: 1
+    path: Assets/Scenes/Night.unity
+    guid: 2753efea759a1fa44b7435683603695b
+  - enabled: 1
+    path: Assets/Scenes/Day.unity
+    guid: 51bfd66f89ee3d54899d9fb03820761f
+  - enabled: 1
+    path: Assets/Scenes/Day2.unity
+    guid: d97b094ce3b5a1e4f9770e41cd9bd605
+  - enabled: 1
+    path: Assets/Scenes/ofs.unity
+    guid: 141f4b5a462e9e0409f67e6edb4c9d92
+  - enabled: 1
+    path: Assets/Scenes/Night2.unity
+    guid: 0156d579efa4d9740b36807fa1f875df
+  - enabled: 1
+    path: Assets/Scenes/Klub.unity
+    guid: 98fc4cdfc87780d4f9e19e688d7fcc6f
+  - enabled: 1
+    path: Assets/Scenes/1MainGame.unity
+    guid: 56beccb81ccd27b4cb383346dee3045f
+  - enabled: 1
+    path: Assets/Scenes/love.unity
+    guid: 8e6edfb9580b40e46a4afe9b67bc62ee
+  - enabled: 1
+    path: Assets/Scenes/GearGame.unity
+    guid: 9d2747406277d68449eb357523f22328
+  - enabled: 1
+    path: Assets/Scenes/finale.unity
+    guid: 18ce998086f3d2d47aa82e9b45dccb4e
+  - enabled: 1
+    path: Assets/Scenes/titles.unity
+    guid: 69619b0490d357048b8a02f4bf54b053
+  - enabled: 1
+    path: Assets/Scenes/video.unity
+    guid: c94dd4e9b40c9d944b32a7b9c4b7eb5c
+  - enabled: 1
+    path: Assets/Scenes/video2.unity
+    guid: aaee9c5ac0a6bc14cadef64e68bc7a12
+  - enabled: 1
+    path: Assets/Scenes/video3.unity
+    guid: ee8ba3a10d111054987cd101f22347cf
   m_configObjects: {}
